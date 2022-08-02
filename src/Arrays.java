@@ -3,7 +3,7 @@ public class Arrays {
 	
 	public static void main(String[] args) {
 		
-	String [] pets = {"Angel", "Namie", "Narga" , "Spot", "Penny"};	//define an array
+	String [] pets = {"Angel", "Namie", "Narga" , "Spot", "Penny" , "Bagel"};	//define an array
 		
 	int arrayLength = pets.length; //the number of elements in the array
 	
